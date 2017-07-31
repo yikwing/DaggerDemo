@@ -84,3 +84,4 @@ public @interface LeatherColor {
 }
 ```
 
+<img src="https://raw.githubusercontent.com/yikwing/ljkplayer_demo/master/image/qrcode.gif" width="600" height="500">
